@@ -1,6 +1,6 @@
 # ReactLorem-ipsum
 
-This is a ReactLorem-ipsum which can see Reviews.
+This is a ReactLorem-ipsum which can generate lorem
 
 ## Built with: 
  
